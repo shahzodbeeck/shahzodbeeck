@@ -4,7 +4,6 @@
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="30px"></code>
-
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="30px"></code>
 <code><img src="https://seeklogo.com/images/O/ottawa-js-logo-394DB38073-seeklogo.com.png" width="30px"></code>
