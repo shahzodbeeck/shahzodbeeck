@@ -13,4 +13,4 @@
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@ITMAKTABI1](https://instagram.com/shahzodbeeck/) 
+- 📨&nbsp; How to reach me: [@shahzodbeeck](https://instagram.com/shahzodbeeck/) 
