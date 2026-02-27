@@ -4,7 +4,9 @@
 I build backend systems that are reliable, scalable, and production-ready.  
 From API architecture to deployment pipelines — I focus on performance, automation, and clean engineering.
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzodbeeck&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true" />
+</p>
 
 ## 🚀 About Me
 
@@ -108,7 +110,7 @@ tools:
 ```
 ---
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahzodbeeck&show_icons=true&theme=tokyonight&count_private=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzodbeeck&theme=tokyonight" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzodbeeck&theme=tokyonight&layout=compact" height="170" /> </p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzodbeeck&theme=tokyonight" height="170" /> </p>
 
 
 ## 🏆 Engineering Principles
