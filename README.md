@@ -125,10 +125,5 @@ Measure performance instead of assuming
 ---
 ## 🌍 Connect
 
-LinkedIn: https://linkedin.com/in/shahzodbeeck
-
-Medium: https://medium.com/@shahzodbeeck
-
-StackOverflow: https://stackoverflow.com/users/shahzodbeeck
 
 Instagram: https://instagram.com/shahzodbeeck
